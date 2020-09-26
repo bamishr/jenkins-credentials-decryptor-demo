@@ -1,0 +1,8 @@
+* text eol=lf
+
+*.png binary
+*.jpg binary
+*.jar binary
+*.zip binary
+
+*.util.Secret binary
